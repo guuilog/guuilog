@@ -11,7 +11,7 @@
 
 - 💻 I'm currently working on Technical Support as a Senior Customer Support Specialist..
 - 💾 I'm currently learning React js and working my way up to the Front-end development...
-- ⚙ Then in a possible future, I'd like to learn Angular or Noade..
+- ⚙ Then in a possible future, I'd like to learn Angular or Node..
   
  <br>
 
